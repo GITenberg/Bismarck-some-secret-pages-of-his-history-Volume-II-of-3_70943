@@ -1,0 +1,34 @@
+_repo: Bismarck-some-secret-pages-of-his-history-Volume-II-of-3_70943
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Busch, Moritz
+    alias: Busch, Julius Hermann Moritz
+    birthdate: 1821
+    deathdate: 1899
+    gutenberg_agent_id: '43714'
+    url: http://www.gutenberg.org/2009/agents/43714
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Julius_Hermann_Moritz_Busch
+    - https://de.wikipedia.org/wiki/Moritz_Busch
+description: ''
+gutenberg_issued: '2023-06-08'
+identifiers:
+  gutenberg: '70943'
+language: en
+pgterms:marc904: https://archive.org/details/bismarcksomesecr01busc/page/n5/mode/2up  https://archive.org/details/bismarcksecretpa02busc/page/n5/mode/2up
+  https://archive.org/details/bismarcksomesecr03busc/page/n5/mode/2up
+pgterms:marc905: 20210714050828busch
+pgterms:marc906: '1898'
+pgterms:marc907: GB
+production_note: Tim Lindell, Bryan Ness, Neil Mercer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bMacmillan and Co., $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bismarck: some secret pages of his history, Volume II (of 3)'
+url: http://www.gutenberg.org/ebooks/70943
