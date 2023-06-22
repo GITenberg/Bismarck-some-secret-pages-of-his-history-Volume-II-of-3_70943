@@ -1,5 +1,8 @@
 _repo: Bismarck-some-secret-pages-of-his-history-Volume-II-of-3_70943
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70943-h/images/cover.jpg
 creator:
   author:
     agent_name: Busch, Moritz
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Julius_Hermann_Moritz_Busch
     - https://de.wikipedia.org/wiki/Moritz_Busch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70943#Bismarck-some-secret-pages-of-his-history-Volume-II-of-3
 gutenberg_issued: '2023-06-08'
 identifiers:
   gutenberg: '70943'
